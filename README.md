@@ -2,7 +2,7 @@
 # 👋 Hello! I'm Waqar Abbas<br><br>I'm a **Data Scientist** 📊 passionate about turning data into actionable insights and innovative solutions! Currently pursuing a **BS in Data Science at Superior University, Pakistan** 🎓, I enjoy exploring new techniques and leveraging data for meaningful projects. <br><br>---<br><br>## 🛠️ Tech Stack & Skills<br><br>- **Languages**: Python 🐍 | SQL 📈 | R 📐<br>- **Libraries & Tools**: <br>    - Data Science: Pandas 🐼, NumPy 🔢, Matplotlib 📊, Seaborn 🌈<br>    - Machine Learning: scikit-learn 🤖, TensorFlow 🌐, OpenCV 👁️<br>    - Databases: PostgreSQL 🐘<br>    - Other Tools: Jupyter Notebooks 📒, Git & GitHub 🌍<br><br>- **Projects**:<br>    - **Face Recognition Attendance System** 🎓: Developed a face recognition-based attendance system using OpenCV and PostgreSQL.<br>    - **License Plate Recognition** 🚗: Built an LPR system for vehicle monitoring and security.<br>    - **Text Analysis for Security Policies** 🔐: Conducted research on NLP applications for data security threat detection in cloud communications.<br><br>## 🌱 What I’m Learning<br>- Enhancing skills in **Deep Learning** and **NLP** for more advanced projects.<br>- Gaining proficiency in **Computer Vision** for real-time applications.<br><br>## 💡 Interests<br>- **Machine Learning** & **AI** 🤖<br>- **Data Visualization** 🎨<br>- **Research** in NLP & Cloud Security 🛡️
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/waqar.abbas.7359) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqar-abbas-321594279) 
 
 # 💻 Tech Stack:
